@@ -1,1 +1,4 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
+
+Adicionando algum texto para aprender a trabalhar com ramificações.
+Depois de criada a nova branch, modificar o Alice txt.

@@ -1,1 +1,3 @@
 Entendendo os conceitos do Git
+
+Como sou novo aqui, estou aprendendo o controle de versão
